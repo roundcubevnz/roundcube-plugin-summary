@@ -1,0 +1,15 @@
+<?php
+# 
+# This file is part of Roundcube "summary" plugin.
+# 
+# Your are not allowed to distribute this file or parts of it.
+# 
+# This file is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+# 
+# Copyright (c) 2012 - 2015 Roland 'Rosali' Liebl - all rights reserved.
+# dev-team [at] myroundcube [dot] net
+# http://myroundcube.com
+# 
+$labels=array();$labels['pluginname']='Startseite';$labels['plugindescription']='Nach der Anmeldung eine Zusammenfassung Ihres Kontos und andere wichtige Information anzeigen.';$labels['description']='Eine Zusammenfassung Ihres Kontos anzeigen.';$labels['mailbox']='Postfach';$labels['cleanup']='Bitte Nachrichten löschen';$labels['unfinished']='Sie haben noch unerledigte Entwürfe';$labels['disablesummary']='Diese Seite nicht mehr anzeigen';$labels['dontusesummary']='Startseite nicht anzeigen';$labels['motd']='Nachrichten';$labels['dst']='Sommerzeit';$labels['quotawarning']='Bitte bereinigen Sie ihr Postfach. Der Speicherplatz ist bald erschöpft.';$labels['quotafull']='Bitte bereinigen Sie ihr Postfach. Der Speicherplatz ist erschöpft.';$labels['accountsummary']='Kontoinformationen';$labels['lastlogin']='Letzter Login';$labels['yourlastloginwason']='<b>Ihr letzter Besuch</b> war am';$labels['fromip']='von IP-Adresse';$labels['ipaddress']='IP-Adresse';$labels['youripaddressis']='<b>Ihre gegenwärtige</b> IP-Adresse lautet';$labels['country']='Land';$labels['city']='Ort';$labels['region']='Region';$labels['distance']='<b>Die Entfernung</b> zwischen diesen Orten beträgt';$labels['or']='bzw.';$labels['kilometers']='Kilometer';$labels['miles']='Meilen';$labels['thousand_separator']='.';$labels['answer']='Antwort';$labels['answersecretquestion']='Sie befinden sich nicht in der Nähe Ihres letzten bekannten Aufenthaltsortes. <b>Bitte beantworten</b> Sie Ihre Sicherheitsfrage, um den Zugang zu entsperren:';$labels['unlockbutton']='Los';$labels['faraway']='Sie befinden sich nicht in der Nähe ihres letzten bekannten Aufenthaltsortes. Bitte beantworten Sie Ihre Sicherheitsfrage, um den Zugang zu entsperren.';$labels['locked']='Der Zugang ist vorübergehend gesperrt. Bitte versuchen Sie es später nocheinmal. Auf Wiedersehen!';$labels['lastattempt']='Das ist Ihr letzter Versuch.';$labels['answerdoesnotmatch']='Die Antwort ist falsch.';$labels['answermatch']='Die Antwort ist richtig.';$labels['suspiciouslogin']='Verdächtiger Login-Versuch - ';$labels['hello']='Hallo,';$labels['loginprevented']='Wir haben einen verdächtigen Login-Versuch verhindert. Das betroffene Konto lautet ##account##. Die folgenden Daten wurden aufgezeichnet:';$labels['ip']='IP-Adresse';$labels['maps']='Google Maps';$labels['advice']='Falls Sie das nicht waren, dann sollten Sie Ihr Passwort ändern. Bitten wählen Sie immer ein sicheres Passwort. Eine Kombination aus Buchstaben (Groß- und Kleinschreibung), Nummern und Sonderzeichen mit einer Länge von mindestens 8 Zeichen ist immer eine gute Wahl.';$labels['regards']='Mit freundlichen Grüßen,';

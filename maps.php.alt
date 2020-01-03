@@ -1,0 +1,49 @@
+<?PHP
+foreach($_GET as $key => $val){
+  $_GET[$key] = trim(urldecode($val));
+}
+?>
+<!DOCTYPE html>
+<html>
+<title><?PHP echo $_GET['country'] . ' - ' . $_GET['city'] ?></title>
+<head>
+  <style>
+    #map_canvas {
+      width: 500px;
+      height: 400px;
+    }
+  </style>
+</head>
+<body>
+<div id="map_canvas"></div>
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+<script>
+function initialize() {
+  var myLatlng = new google.maps.LatLng(<?PHP echo $_GET['lat'] ?>,<?PHP echo $_GET['long'] ?>);
+  var mapOptions = {
+    zoom: 4,
+    center: myLatlng,
+    mapTypeId: google.maps.MapTypeId.ROADMAP,
+    
+    streetViewControl: false,
+    scrollwheel: false,
+    scaleControl: false,
+    zoomControlOptions: {
+      style: google.maps.ZoomControlStyle.DEFAULT
+    },
+  };
+  var map = new google.maps.Map(document.getElementById('map_canvas'), mapOptions);
+  var contentString = "<div style=\"font-family:Arial,Helvetica,Tahoma;font-size:11px;\" align=\"left\"><strong><?PHP echo $_GET['lcity'] ?></strong>: <?PHP echo $_GET['city'] ?><br><strong><?PHP echo $_GET['lcountry'] ?></strong>: <?PHP echo $_GET['country'] ?><br><strong><?PHP echo $_GET['lip'] ?></strong>: <?PHP echo $_GET['ip'] ?><br> </div>";
+  var infowindow = new google.maps.InfoWindow({
+      content: contentString,
+  });
+  var marker = new google.maps.Marker({
+      position: myLatlng,
+      map: map
+  });
+  infowindow.open(map,marker);
+}
+google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+<?php
+# 
+# This file is part of Roundcube "summary" plugin.
+# 
+# Your are not allowed to distribute this file or parts of it.
+# 
+# This file is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+# 
+# Copyright (c) 2012 - 2015 Roland 'Rosali' Liebl - all rights reserved.
+# dev-team [at] myroundcube [dot] net
+# http://myroundcube.com
+# 
+$labels=array();$labels['pluginname']='Pagina de Sumario';$labels['plugindescription']='Mostrar una página de bienvenida después de iniciar sesión con un sumario del estado de buzones y otros ajustes.';$labels['description']='Mostrar resumen  de estado de buzones y otros ajustes.';$labels['mailbox']='Buzón';$labels['cleanup']='Por favor, elimine correos innecesarios';$labels['unfinished']='Tiene borradores pendientes';$labels['disablesummary']='No volver a mostrar esta página';$labels['dontusesummary']='No mostrar la página de sumario';$labels['motd']='Bienvenid@ a la nueva Intranet!';$labels['dst']='Horario de verano';$labels['quotawarning']='Queda poco espacio libre en su buzón. Por favor, elimine algunos correos.';$labels['quotafull']='La cuota de su buzón ha sido excedida. Por favor, elimine algunos correos.';$labels['accountsummary']='Resumen de cuenta';$labels['lastlogin']='Último Ingreso';$labels['yourlastloginwason']='Su última ingreso fue en';$labels['fromip']='desde Dirección IP';$labels['ipaddress']='Dirección IP';$labels['youripaddressis']='Su Dirección IP actual es';$labels['country']='País';$labels['city']='Ubicación';$labels['region']='Región';$labels['distance']='La distancia entre estos lugares es';$labels['or']='o';$labels['kilometers']='kilómetros';$labels['miles']='millas';$labels['thousand_separator']=',';$labels['answer']='Respuesta';$labels['answersecretquestion']='Usted no está cerca de su último paradero conocido. Por favor, responda la pregunta secreta para desbloquear su cuenta:';$labels['unlockbutton']='Listo';$labels['faraway']='Usted no está cerca de su último paradero conocido. Para proceder, por favor responda la pregunta secreta para su propia seguridad.';$labels['locked']='El acceso ha sido bloqueado temporalmente. Inténtalo de nuevo más tarde. ¡Hasta Luego!';$labels['lastattempt']='Esta será su último intento.';$labels['answerdoesnotmatch']='La respuesta no coincide.';$labels['answermatch']='La respuesta es correcta.';$labels['suspiciouslogin']='Inicio de sesión sospechosa en';$labels['hello']='Hola,';$labels['loginprevented']='Se ha evitado un intento de acceso sospechoso a su cuenta ##account## con los siguientes detalles:';$labels['ip']='Dirección IP';$labels['maps']='Mapas de Google';$labels['advice']='Si no fue usted, por favor considere cambiar su contraseña tan pronto como sea posible. Utilice siempre contraseñas seguras para su cuenta. El uso de combinaciones de letras, números, caracteres, mayúsculas y minúsculas, con una longitud mínima de 8 caracteres es un buen comienzo.';$labels['regards']='Saludos,';

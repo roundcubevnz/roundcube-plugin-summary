@@ -1,0 +1,16 @@
+summary
+=======
+
+(*) Since version 3.10 you are able to add a link to Account
+    Administration block (see CHANGELOG for details).
+    
+(*) Since version 3.11 last login is displayed (enabled by default).
+
+(*) Since version 3.11.3 GeoIP based suspicious login prevention is
+    available (pwtools plugin is required). Release requires re-configuration.
+    Credits go to freegeoip.net for providing free GeoIP services.
+    IMPORTANT: Add "nosummary" to main configuration "dont_override" key in
+               order to disallow bypassing of GeoIP based suspicious login
+               prevention.
+               
+(*) Version 3.14 requires reconfiguration. 

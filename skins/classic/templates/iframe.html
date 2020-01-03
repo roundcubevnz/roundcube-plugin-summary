@@ -1,0 +1,20 @@
+<roundcube:object name="doctype" value="html5" /><html><head><title><roundcube:object name="pagetitle" /></title><roundcube:include file="/includes/links.html" /><link rel="stylesheet" type="text/css" href="/settings.css" /><style type="text/css">
+table.propform_settings td
+{
+  border-bottom: none !important;
+  background: #f2f2f2 !important;
+}
+#summarytable
+{
+  width: 100%;
+}
+td.narrow
+{
+  width: 1px !important;
+}
+div.title
+{
+  background: #f2f2f2;
+  padding: 10px 10px;
+}
+</style></head><body class="iframe"><div id="prefs-title" class="boxtitle"><a href="./?_task=settings&_action=edit-prefs&_section=accountlink&_framed=1"><roundcube:label name="settings.account" /></a>&nbsp;&raquo;&nbsp;<roundcube:label name="summary.accountsummary" /></div><form name="spamfilterform" action="./?_task=settings&_action=plugin.hmail_spamfilter-save&_framed=1" method="post"><div id="prefs-details" class="boxcontent"><roundcube:object name="summary_quota" /><roundcube:object name="summary_mailboxes" /><roundcube:object name="summary_timezone" /><roundcube:object name="summary_spamfilter" /><roundcube:object name="summary_forwarding" /><roundcube:object name="summary_autoresponder" /><roundcube:object name="summary_pwtools" /></form></div></body></html>

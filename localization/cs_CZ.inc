@@ -1,0 +1,15 @@
+<?php
+# 
+# This file is part of Roundcube "summary" plugin.
+# 
+# Your are not allowed to distribute this file or parts of it.
+# 
+# This file is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+# 
+# Copyright (c) 2012 - 2015 Roland 'Rosali' Liebl - all rights reserved.
+# dev-team [at] myroundcube [dot] net
+# http://myroundcube.com
+# 
+$labels=array();$labels['pluginname']='Stránka s přehledem';$labels['plugindescription']='Po přihlášení zobrazí uvítací stránku se stavem poštovních schránek a dalších nastavení.';$labels['description']='Zobrazí přehled se stavem poštovních schránek a dalších nastavení.';$labels['mailbox']='Schránka';$labels['cleanup']='Vyčistěte prosím';$labels['unfinished']='Máte nedokončené koncepty';$labels['disablesummary']='Nezobrazovat znovu tuto stránku';$labels['dontusesummary']='Nezobrazovat stránku s přehledem';$labels['motd']='Zpráva dne';$labels['dst']='letní čas';$labels['quotawarning']='Vyčistěte si prosím vaši schránku. Máte nedostatek místa.';$labels['quotafull']='Kvóta pro velikost vaší schránky byla překročena. Vyčistěte si ji prosím.';$labels['accountsummary']='Přehled účtu';$labels['lastlogin']='Poslední přihlášení';$labels['yourlastloginwason']='Vaše poslední přihlášení bylo';$labels['fromip']='z IP adresy';$labels['ipaddress']='IP adresa';$labels['youripaddressis']='Vaše aktuální IP adresa je';$labels['country']='Země';$labels['city']='Lokalita';$labels['region']='Region';$labels['distance']='Vzdálenost mezi těmito lokalitami je';$labels['or']='nebo';$labels['kilometers']='kilometrů';$labels['miles']='mil';$labels['thousand_separator']=' ';$labels['answer']='Odpověď';$labels['answersecretquestion']='Nejste v blízkosti svého posledního známého pobytu. Odpovězte prosím na vaši tajnou otázku, abyste odemkli svůj účet:';$labels['unlockbutton']='Odeslat';$labels['faraway']='Nejste v blízkosti svého posledního známého pobytu. Aby bylo možné pokračovat, pro vaši vlastní bezpečnost prosím odpovězte na vaši tajnou otázku.';$labels['locked']='Přístup byl dočasně zablokován. Zkuste to prosím později. Na shledanou!';$labels['lastattempt']='Toto je váš poslední pokus.';$labels['answerdoesnotmatch']='Odpověď neodpovídá.';$labels['answermatch']='Odpověď je správná.';$labels['suspiciouslogin']='Podezřelé přihlášení na';$labels['hello']='Dobrý den,';$labels['loginprevented']='Zabránili jsme podezřelému pokusu o přihlášení k vašemu účtu ##account## - zde jsou detaily:';$labels['ip']='IP adresa';$labels['maps']='Google mapy';$labels['advice']='Pokud jste to nebyli vy, zvažte prosím co nejdříve změnu hesla. Vždy používejte silná hesla pro váš účet. Pro začátek je dobrá kombinace velkých i malých písmen, číslic, znaků s minimální délkou hesla 8 znaků.';$labels['regards']='S pozdravem,';

@@ -1,0 +1,15 @@
+<?php
+# 
+# This file is part of Roundcube "summary" plugin.
+# 
+# Your are not allowed to distribute this file or parts of it.
+# 
+# This file is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+# 
+# Copyright (c) 2012 - 2015 Roland 'Rosali' Liebl - all rights reserved.
+# dev-team [at] myroundcube [dot] net
+# http://myroundcube.com
+# 
+$labels=array();$labels['pluginname']='Summary Page';$labels['plugindescription']='Show a welcome page after login with mailboxes status summary and other settings.';$labels['description']='Show mailboxes status summary and other settings.';$labels['successfullyprocessed']='Request has been processed successfully.';$labels['mailbox']='Mailbox';$labels['cleanup']='Please cleanup';$labels['unfinished']='You have unfinished drafts';$labels['disablesummary']='Do not show this page again';$labels['dontusesummary']='Do not show summary page';$labels['motd']='Message of the day';$labels['dst']='DST';$labels['quotawarning']='Please clean up your mailbox. You are running out of space.';$labels['quotafull']='Your mailbox quota has been exceeded. Please clean up.';$labels['accountsummary']='Account Summary';$labels['lastlogin']='Last Login';$labels['yourlastloginwason']='<b>Your last login</b> was on';$labels['fromip']='from IP Address';$labels['ipaddress']='IP Address';$labels['youripaddressis']='<b>Your current</b> IP Address is';$labels['country']='Country';$labels['city']='Location';$labels['region']='Region';$labels['distance']='<b>The distance<b> between these locations is';$labels['or']='or';$labels['kilometers']='kilometers';$labels['miles']='miles';$labels['thousand_separator']=',';$labels['answer']='Answer';$labels['answersecretquestion']='You are not close to your last known whereabouts. <b>Please answer</b> your secret question in order to unlock your account:';$labels['unlockbutton']='Go';$labels['faraway']='You are not close to your last known whereabouts. In order to proceed please answer your secret question for your own safety.';$labels['locked']='Access has been blocked temporarily. Please try again later. Good bye!';$labels['lastattempt']='This will be your last attempt.';$labels['answerdoesnotmatch']='The answer does not match.';$labels['answermatch']='The answer is correct.';$labels['suspiciouslogin']='Suspicious login at';$labels['hello']='Hello,';$labels['loginprevented']='We have prevented a suspicious login attempt to your account ##account## with the following details:';$labels['ip']='IP address';$labels['maps']='Google Maps';$labels['advice']='If this was not you, please consider changing your password as soon as possible. Always use strong passwords for your account. Using combinations of letters, numbers, characters, upper and lower case with a minimum length of 8 characters is a good start.';$labels['regards']='Regards,';

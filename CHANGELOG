@@ -1,0 +1,58 @@
+VERSION                COMMENT
+---------------------------------------------------------------------------------------------------------
+3.10                   - Improved Navigation:
+                         Plugin is now accessible from top left bar (Larry only)
+                         and Settings -> Account Administration (if configured:
+                         $GLOBALS['settingsnav']['summary'] = array(
+                           'part' => '',
+                           'label' => 'accountsummary',
+                           'href' => '#',
+                           'onclick' => 'parent.location.href="./?_task=mail&_action=plugin.summary"',
+                           'descr' => 'summary'
+                         );
+3.10.1 - 3.10.2        - Fix task binding
+3.10.3                 - Display warning if Password reminder is disabled
+3.10.4                 - CSS improvement
+3.10.5                 - Fix incorrect redirect
+3.10.6 - 3.10.8        - Jappix4Roundcube adjustments
+3.10.9 - 3.10.10       - tabbed plugin adjustments
+3.10.11                - Display summary link in top navigation bar even if option not to show
+                         summary page after login is enabled
+3.11 - 3.11.2          - Display lastlogin
+3.11.3 - 3.11.5        - Suspicious login prevention
+3.11.6                 - Roundcube 1.0 compatibility
+3.11.7                 - Adjust Roundcube messages in templates to 1.0 style
+3.11.8                 - Use rcube_utils::remote_addr() for IP detection
+3.11.9                 - Replace GeoIP service by freegeoip.net
+3.12                   - Build own GeoIP database
+3.12.1                 - Fix a typo in database scheme of geoip table ('area_code' instead of 'areacode')
+3.12.2                 - Pass formatted IP to GUI
+3.12.3                 - Remove global_alias plugin
+3.12.4                 - Optionally GeoIP tracking in a separate database
+3.12.5                 - Fix an issue if lat/long contains ',' instead of '.' as float delimiter
+3.12.6                 - Fix invalid database query if IP could not be detected for any reason
+3.12.7                 - Enhancement: https://code.google.com/p/myroundcube/issues/detail?id=688
+3.12.8                 - Bug fix: https://code.google.com/p/myroundcube/issues/detail?id=691
+3.12.9                 - Silence filemtime (@)
+3.12.10                - Use rcube_db::factory
+3.12.11                - Fix last IP display
+3.12.12                - Implement rcube_db::limitquery
+3.13                   - Additional configuration options
+                         (https://code.google.com/p/myroundcube/issues/detail?id=702)
+                       - Re-design of Account details section
+3.13.1                 - 'jsdialogs' plugin implementation
+3.13.2                 - Don't display special folders if we don't have a localization label
+3.13.3                 - Skin improvements (Larry)
+3.13.4                 - Replace GeoIP service with MyRoundcube own GeoIP service for better service support
+3.13.5                 - Admin option to define distance for double login requirement or to disable
+                         the feature
+3.13.6 - 3.13.7        - Check for integer IP reprensenation success
+3.13.8                 - Remove http_request plugin from required plugins
+3.13.9                 - Bind plugin to calendar/tasks tasks
+3.13.10                - Roundcube 1.1 compatibility
+3.13.11                - Fix special folders box ($config['default_folders'] seems to be deprecated)
+3.13.12                - Fix onlick in summary link
+3.13.13 - 3.13.14      - Save last login time in user's timezone
+4.0                    - Refresh quota, message of the day and mailbox stats if users stay on summary page
+4.0.1                  - Bind ajax request to refresh the above things to a separate action
+4.0.2                  - Display quota in MBytes
