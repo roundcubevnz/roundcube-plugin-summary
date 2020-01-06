@@ -5,18 +5,18 @@
     http://pear.php.net/dtd/package-2.0.xsd">
 	<name>summary</name>
 	<lead>
-		<name>Myroundcube Dev Team</name>
-		<user>rosali</user>
-		<email>dev-team@myroundcube.com</email>
+		<name>roundcubevnz</name>
+		<user>vegnuli</user>
+		<email>osposweb@gmail.com</email>
 		<active>yes</active>
-	</lead><date>2015-04-26</date>
+	</lead><date>2019-12-29</date>
 	<version>
-		<release>4.0.2</release>
-		<api>4.0.2</api>
+		<release>4.0.2.1</release>
+		<api>4.0.2.1</api>
 	</version>
 	<stability>
 		<release>stable</release>
 		<api>stable</api>
 	</stability>
-	<license uri="http://dev.myroundcube.com/index.php?_action=plugin.plugin_server_license&amp;_plugin=summary">All Rights reserved</license>
+	<license uri="http://osposweb.com">CC BY SA VenenuX Roundcube, osposweb.com All Rights reserved</license>
 </package>

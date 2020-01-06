@@ -56,3 +56,4 @@ VERSION                COMMENT
 4.0                    - Refresh quota, message of the day and mailbox stats if users stay on summary page
 4.0.1                  - Bind ajax request to refresh the above things to a separate action
 4.0.2                  - Display quota in MBytes
+4.0.2.1                - Stolen plugin due original autor broke contract and provide more information
