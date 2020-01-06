@@ -1,52 +1,90 @@
 TERMS AND CONDITIONS
 --------------------
 
-User Agreement for MyRoundcube "##PLUGIN##" plugin
+User Agreement for roundcubevnz "summary" plugin:
 
-MyRoundcube Developers provides MyRoundcube Plugins (code) shall provide ("MyRoundcube Plugins") to
+    Share — copy and redistribute the material in any medium or format
+    Adapt — remix, transform, and build upon the material for any purpose.
+
+This license is acceptable for Free Cultural Works.
+
+    The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+Under the following terms:
+
+    Attribution — You must give appropriate credit, provide a link to the 
+    license, and indicate if changes were made. You may do so in any reasonable 
+    manner, but not in any way that suggests the licensor endorses you or your use.
+
+    ShareAlike — If you remix, transform, or build upon the material, you 
+    must distribute your contributions under the same license as the original.
+
+    No additional restrictions — You may not apply legal terms or technological 
+    measures that legally restrict others from doing anything the license permits.
+
+Notices:
+
+    You do not have to comply with the license for elements of the material 
+    in the public domain or where your use is permitted by an applicable 
+    exception or limitation.
+    No warranties are given. The license may not give you all of the permissions 
+    necessary for your intended use. For example, other rights such as publicity, 
+    privacy, or moral rights may limit how you use the material.
+
+So as section "c" of original LICENSE said: 
+
+ (c)	User agrees not to transfer roundcubevnz Plugins (code) for 
+ gain or otherwise. Transfer of such code will result in termination 
+ of contract with end user.
+
+It's clear that "myroundcube" broke the rules and also we broke in retribution.
+In any case, this plugin are relicensed ar CC-BY-SA
+
+
+roundcubevnz Developers provides roundcubevnz Plugins (code) shall provide ("roundcubevnz Plugins") to
 you ("User") under the terms and conditions of this User Agreement ("the Agreement"). USER UNDERSTANDS
-AND ACKNOWLEDGES THAT USER IS ENTERING INTO AN AGREEMENT WITH MyRoundcube Developers AND NOT THE WEB
-SITE WITH WHOM ANYTHING HAS ASSOCIATED TO BRING YOU THIS CODE. BY USING ("MyRoundcube Plugins") OR ANY
-PART OF ITS CODE YOU ARE AGREEING TO BECOME A PARTY TO THIS AGREEMENT WITH MyRoundcube Developers AND
+AND ACKNOWLEDGES THAT USER IS ENTERING INTO AN AGREEMENT WITH roundcubevnz Developers AND NOT THE WEB
+SITE WITH WHOM ANYTHING HAS ASSOCIATED TO BRING YOU THIS CODE. BY USING ("roundcubevnz Plugins") OR ANY
+PART OF ITS CODE YOU ARE AGREEING TO BECOME A PARTY TO THIS AGREEMENT WITH roundcubevnz Developers AND
 TO THE TERMS AND CONDITIONS HEREIN AND ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTAND ANY APPLICABLE
-ASSOCIATE STATEMENT IN THIS DOCUMENT. ALL MyRoundcube Developers SERVICES ARE PROVIDED ONLINE. PERSONS
-UNDER 13 MAY NOT BE ELEGIBLE TO ENTERING INTO AN AGREEMENT WITH MyRoundcube Developers OR PURCHASE OUR
+ASSOCIATE STATEMENT IN THIS DOCUMENT. ALL roundcubevnz Developers SERVICES ARE PROVIDED ONLINE. PERSONS
+UNDER 13 MAY NOT BE ELEGIBLE TO ENTERING INTO AN AGREEMENT WITH roundcubevnz Developers OR PURCHASE OUR
 SERVICES AND CODE DOWNLOADS.
 
 Acceptable Use Policy
 
-The following policy governs the use of the MyRoundcube Developers code. User will comply with the terms
+The following policy governs the use of the roundcubevnz Developers code. User will comply with the terms
 and spirit of the Agreement.
 
-(a)	User shall not use MyRoundcube Plugins (code) in a manner that violates any city, state, national
+(a)	User shall not use roundcubevnz Plugins (code) in a manner that violates any city, state, national
 or international law or regulation, or which fails to comply with accepted Internet protocol. User
-shall not attempt to interfere in any way with MyRoundcube Plugins networks or network security, or
-attempt to use the MyRoundcube Plugins code to gain unauthorized access to any other computer system. 
-(b)	User shall at all times provide MyRoundcube Developers with accurate information. User shall not
-interfere in any way with another User's use of, or MyRoundcube Developers provision of the MyRoundcube
+shall not attempt to interfere in any way with roundcubevnz Plugins networks or network security, or
+attempt to use the roundcubevnz Plugins code to gain unauthorized access to any other computer system. 
+(b)	User shall at all times provide roundcubevnz Developers with accurate information. User shall not
+interfere in any way with another User's use of, or roundcubevnz Developers provision of the roundcubevnz
 Plugins. User shall not resell, rent, lease, grant a security interest in, or make commercial use of
-the MyRoundcube Plugins without the express written consent of MyRoundcube Developers.
-(c)	User agrees not to transfer MyRoundcube Plugins (code) for gain or otherwise. Transfer of such code
+the roundcubevnz Plugins without the express written consent of roundcubevnz Developers.
+(c)	User agrees not to transfer roundcubevnz Plugins (code) for gain or otherwise. Transfer of such code
 will result in termination of contract with end user.
 
 Limitation of Liability
 
-UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY, TORT, CONTRACT, OR OTHERWISE, SHALL MyRoundcube
+UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY, TORT, CONTRACT, OR OTHERWISE, SHALL roundcubevnz
 Developers OR ITS LICENSORS OR RESELLERS BE LIABLE TO USER OR ANY OTHER PERSON FOR ANY INDIRECT, SPECIAL,
 INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER INCLUDING, WITHOUT LIMITATION, DAMAGES RESULTING
-FROM THE USE OF OR THE INABILITY TO USE THE MyRoundcube Plugins (code), THE PERFORMANCE OF MyRoundcube
+FROM THE USE OF OR THE INABILITY TO USE THE roundcubevnz Plugins (code), THE PERFORMANCE OF roundcubevnz
 Plugins (code) SERVICE, OR DAMAGES FOR LOSS OF GOODWILL, BUSINESS PROFIT, BUSINESS STOPPAGE, LOSS OF
 DATA OR BUSINESS INFORMATION, COMPUTER DAMAGE, OR DAMAGES RESULTING FROM UNAUTHORIZED ACCESS TO OR
 CHANGES MADE TO USER'S TRANSMISSIONS OR DATA, OR ANY AND ALL OTHER COMMERCIAL DAMAGES OR LOSSES.
-IN NO EVENT WILL MyRoundcube Developers BE LIABLE FOR ANY DAMAGES IN EXCESS OF WHAT ANYTHING MyRoundcube
-Developers RECEIVED FROM USER FOR THE MyRoundcube Plugins (code).
+IN NO EVENT WILL roundcubevnz Developers BE LIABLE FOR ANY DAMAGES IN EXCESS OF WHAT ANYTHING roundcubevnz
+Developers RECEIVED FROM USER FOR THE roundcubevnz Plugins (code).
 
 Terms
 
 You (the User) are permitted to use the code on unlimited servers you may own, rented or leased, as
-long as you own, rent or lease the server in which MyRoundcube plugins code is hosted.
+long as you own, rent or lease the server in which roundcubevnz plugins code is hosted.
 Exclusive: You (the User) agree to use the code in one server at a time. Multiple server deployments
-(multiserver setup), clusters or any other form of deployment that simultaneously executes MyRoundcube
+(multiserver setup), clusters or any other form of deployment that simultaneously executes roundcubevnz
 plugins in a live environment must purchase a separate download per server or installation thereof. 
  
 Warranties
@@ -60,12 +98,10 @@ We reserve the right to change or modify our Terms and Conditions at any time wi
 For questions, please contact our team at dev-team [at] myroundcube [dot] com.
 
 Copyright (c) 2012 - 2015
-MyRoundcube.com - A Division of Informative Computing Consultants, LLC.
+osposweb.com - A fusil Consultants opensource initiative, LLC.
 All rights reserved
 
-Informative Computing Consultants, LLC.
-21741 NW 8th CT
-Pembroke Pines
-Florida, 33029
-dev-team [at] myroundcube [dot] com
-http://myroundcube.com
+Fusil consulting
+Panama
+osposweb [at] gmail [dot] com
+http://osposweb.com
